@@ -15,6 +15,12 @@ This repository contains the full source code, allowing you to customize:
 Designed for professional document automation workflows.
 
 ------------------------------------------------------------
+🌟 SCREENSHOT
+------------------------------------------------------------
+
+<img alt="PDF Structured Data Extractor PRO" src="https://github.com/rogers-cyber/PDFStructuredDataExtractorPRO/blob/main/PDF-Structured-Data-Extractor-PRO.jpg" />
+
+------------------------------------------------------------
 🌟 FEATURES
 ------------------------------------------------------------
 
@@ -243,3 +249,4 @@ Distributed as source code.
 
 You may use it for personal or educational projects.  
 Redistribution, resale, or commercial use requires explicit written permission from Mate Technologies.
+
